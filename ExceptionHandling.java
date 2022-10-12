@@ -1,6 +1,6 @@
 /******************************************************************************
-*Program Features: This program handles integers with multiple digits, floating data type, 
-*				   handles exception and does not rely on full paranthesis*
+*Program Features: This program handles integers with multiple digits, floating data type,
+handles exception and does not rely on full paranthesis*
 *******************************************************************************/
 package programmingAssignments;
 
