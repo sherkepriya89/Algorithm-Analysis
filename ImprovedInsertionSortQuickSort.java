@@ -1,13 +1,6 @@
 /******************************************************************************
-*Name: Priya Sherke*
-*Assignment: Programming Assignment 03*
 *Program Features: This program sort the numbers in the text file using Insertion Sort, Quick Sort and Improved Version of Quick Sort*
-*Date: 03/31/2021*
-*Course and Semester: CS_520_01_LEC_SPRING_2021: Algorithm Analysis*
-*Instructor:Dr. Jiang Li*
 *******************************************************************************/
-
-package programmingAssignments;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
