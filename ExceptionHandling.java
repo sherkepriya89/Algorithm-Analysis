@@ -1,11 +1,6 @@
 /******************************************************************************
-*Name: Priya Sherke*
-*Assignment: Programming Assignment 01*
 *Program Features: This program handles integers with multiple digits, floating data type, 
 *				   handles exception and does not rely on full paranthesis*
-*Date: 02/24/2021*
-*Course and Semester: CS_520_01_LEC_SPRING_2021: Algorithm Analysis*
-*Instructor:Dr. Jiang Li*
 *******************************************************************************/
 package programmingAssignments;
 
