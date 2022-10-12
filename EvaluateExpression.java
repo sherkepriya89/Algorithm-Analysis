@@ -2,12 +2,10 @@
 *Program Features: This program handles integers with multiple digits, floating data type,
 handles exception and does not rely on full paranthesis*
 *******************************************************************************/
-package programmingAssignments;
-
 import java.util.*;
 import java.util.regex.Pattern;
 
-public class programmingAssignment1 {
+public class evaluateExpression {
 
 	// Main Function
 	public static void main(String[] args) {
