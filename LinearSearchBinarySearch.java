@@ -1,12 +1,6 @@
 /******************************************************************************
-*Name: Priya Sherke*
-*Assignment: Programming Assignment 02*
 *Program Features: Run Time Observation for Linear Search and Binary Search*
-*Date: 03/10/2021*
-*Course and Semester: CS_520_01_LEC_SPRING_2021: Algorithm Analysis*
-*Instructor:Dr. Jiang Li*
 *******************************************************************************/
-package programmingAssignments;
 
 import java.util.Arrays;
 import java.util.Random;
