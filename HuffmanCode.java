@@ -1,10 +1,5 @@
 /******************************************************************************
-*Name: Priya Sherke*
-*Assignment: Programming Assignment 04 - Part III*
 *Program Features: This program reads a text file and prints the frequency table and build the huffman code table and encodes the message*
-*Date: 04/28/2021*
-*Course and Semester: CS_520_01_LEC_SPRING_2021: Algorithm Analysis*
-*Instructor:Dr. Jiang Li*
 *******************************************************************************/
 
 package programmingAssignments;
