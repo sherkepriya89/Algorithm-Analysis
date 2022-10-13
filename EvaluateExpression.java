@@ -5,7 +5,7 @@ handles exception and does not rely on full paranthesis*
 import java.util.*;
 import java.util.regex.Pattern;
 
-public class evaluateExpression {
+public class EvaluateExpression {
 
 	// Main Function
 	public static void main(String[] args) {
