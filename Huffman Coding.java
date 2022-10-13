@@ -14,7 +14,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 
-public class HuffmanCode {
+public class HuffmanCoding {
 	private String arg, encodedStr;
 	public HashMap<Character, Integer> hmapWC; // for occurrence count
 	public HashMap<Character, String> hmapCode; // for code(character/code)
