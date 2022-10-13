@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-public class linearSearchBinarySearch {
+public class LinearSearchBinarySearch {
 	public static void main(String[] args) {
 		// Randomly generates n integer numbers and saves them in an array data structure numberArray[]
 		System.out.println("Welcome to Java Program to perform linear and binary search on numberArray");
