@@ -7,7 +7,7 @@ import java.io.FileNotFoundException;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class InsertionSortQuickSort {
+public class insertionSortQuickSort {
 
 	// Main Function
 	public static void main(String[] args) {
